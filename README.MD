@@ -2,6 +2,7 @@
 ![enter image description here](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png)
 
 ![Screenshot of menu](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png)
+
 This is a fun word game I made in a single day. I hope you enjoy
 
 ## How to run
