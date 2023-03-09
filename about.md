@@ -9,5 +9,6 @@ permalink: /about/
 
 Real Word is a fun and skill based learing game!
 
-[Repo](https://github.com/RayTheNoob/real-word)
-[Download](https://raythenoob.github.io/real-word/downloads)
+- [Repo](https://github.com/RayTheNoob/real-word)
+- [Download](https://raythenoob.github.io/real-word/downloads)
+
