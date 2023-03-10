@@ -29,4 +29,8 @@ Don't trust us! Trust our players who left reviews!
 
 > I played this game and I think it is the best game that has ever been made. Ever. - Keyvin Brown
 
+> I love the game and the soothing music on the title screen - Richard Cashworth
+
+> The game is just perfect! It will forever be remembered as the greatest artifact of interactive media of all time! - Scott Morgan
+
 [Leave a review](https://raythenoob.github.io/real-word/about/)
