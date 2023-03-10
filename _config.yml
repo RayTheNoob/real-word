@@ -3,3 +3,5 @@ name: Real Word
 description: A skill based learning game!
 
 avatar: https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png
+
+theme: minima
