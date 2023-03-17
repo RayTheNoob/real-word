@@ -5,6 +5,11 @@ permalink: /about/
 ---
 
 ## Real Word
+
+[Site moved](https://raythenoob.github.io/website/real-word)
+
+---
+
 ![enter image description here](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png)
 
 Real Word is a fun and skill based learing game!
